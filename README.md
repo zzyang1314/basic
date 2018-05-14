@@ -45,4 +45,4 @@ github:https://github.com/zzyang1314
 
 # 发表文章
 
-Baryon-strangeness correlations in Au+Au collisions at #sqrt(s_NN)=7.7-200GeV from UrQMD model, Phys.Rev.C 95.014914(2017).
+Baryon-strangeness correlations in Au+Au collisions at $$\sqrt(s_NN)=7.7-200GeV$$ from UrQMD model, Phys.Rev.C 95.014914(2017).
