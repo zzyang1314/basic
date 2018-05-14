@@ -10,3 +10,12 @@
 出生年月：1991年9月6日
 
 籍贯：河南省-驻马店市
+
+学校专业：华中师范大学粒子物理与原子核物理
+
+电话：xxx
+
+Email:xxx@mails.ccnu.edu.cn
+
+github:https://github.com/zzyang1314
+
