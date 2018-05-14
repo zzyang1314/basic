@@ -19,3 +19,6 @@ Email:xxx@mails.ccnu.edu.cn
 
 github:https://github.com/zzyang1314
 
+英语水平：六级
+
+#自我简介
